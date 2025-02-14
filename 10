@@ -2,47 +2,47 @@
   "repo_name": "Witcher",
   "data": [
     {
-      "name": "Prize-Winning Cow",
+      "name": "Saskia the Dragonslayer",
       "type": "custom",
       "id": "1",
       "image_uris": {
-        "large": "https://www.mtgnexus.com/img/ccc/ren/8058/58246a.jpg?t=2023-03-18-22:41:33"
+        "large": "https://www.mtgnexus.com/img/ccc/ren/8058/31629a.jpg?t=2023-02-14-22:53:22"
       },
-      "mana_cost": "{4}{BG}{BG}",
-      "cmc": 6,
-      "type_line": "Creature — Beast",
-      "oracle_text": "When Prize-Winning Cow would die, transform it.  \n{T}: Add one mana of any colour.",
-      "power": "0",
-      "toughness": "3",
+      "mana_cost": "{3}{R}{W}",
+      "cmc": 5,
+      "type_line": "Legendary Creature — Human Knight",
+      "oracle_text": "Double strike, haste  \nWhen Saskia the dragon slayer is dealt damage and doesn't die, transform it.",
+      "power": "3",
+      "toughness": "2",
       "colors": [
-        "B",
-        "G"
+        "R",
+        "W"
       ],
       "color_identity": [
-        "B",
-        "G"
+        "R",
+        "W"
       ]
     },
     {
-      "name": "Chort",
+      "name": "Saesenthessis",
       "type": "custom",
       "id": "2",
       "image_uris": {
-        "large": "https://www.mtgnexus.com/img/ccc/ren/8058/58246b.jpg?t=2023-03-18-22:41:33"
+        "large": "https://www.mtgnexus.com/img/ccc/ren/8058/31629b.jpg?t=2023-02-14-22:53:22"
       },
       "mana_cost": "",
       "cmc": 0,
-      "type_line": "Creature — Beast Horror",
-      "oracle_text": "Haste, trample",
-      "power": "7",
-      "toughness": "4",
+      "type_line": "Legendary Creature — Dragon",
+      "oracle_text": "Ward — {3} \nFlying, trample, haste \nWhen Saesenthessis is dealt damage, it deals that much damage divided to any target creatures. \nCurse — {12}: Exile this creature.",
+      "power": "8",
+      "toughness": "8",
       "colors": [
-        "B",
-        "G"
+        "R",
+		"W"
       ],
       "color_identity": [
-        "B",
-        "G"
+        "R",
+		"R"
       ]
     },
     {
