@@ -1,0 +1,1321 @@
+{
+	"repo_name": "Witcher",
+	"data": [{
+				"name": "Geralt Of Rivia, The White Wolf",
+				"type": "custom",
+				"id": "1",
+				"image_uris": {
+					"large": "https://www.mtgnexus.com/img/ccc/ren/8058/208388.jpg?t=2024-03-16-22:53:49"
+				},
+				"mana_cost": "{1}{W}{U}{B}{R}{G}",
+				"cmc": 6,
+				"type_line": "Legendary Creature — Witcher",
+				"oracle_text": "First Strike, Hexproof, Vigilance \nGeralt Of Rivia, The White Wolf gets +1/+1 for each sign you control. \nYou may cast signs from your graveyard and from exile \nWhenever you cast a potion, return it to it's owners hand.",
+				"power": "5",
+				"toughness": "5",
+				"colors": [
+					"W",
+					"U",
+					"B",
+					"R",
+					"G"
+				],
+				"color_identity": [
+					"W",
+					"U",
+					"B",
+					"R",
+					"G"
+				]
+			},
+			{
+				"name": "Vilgefortz",
+				"type": "custom",
+				"id": "2",
+				"image_uris": {
+					"large": "https://www.mtgnexus.com/img/ccc/ren/8058/208293.jpg?t=2024-03-16-18:46:24"
+				},
+				"mana_cost": "{3}{BR}{BR}",
+				"cmc": 5,
+				"type_line": "Legendary Creature — Human Wizard",
+				"oracle_text": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.) \nInstant and sorcery spells you control have deathtouch",
+				"power": "3",
+				"toughness": "3",
+				"colors": [
+					"B",
+					"R"
+				],
+				"color_identity": [
+					"B",
+					"R"
+
+				]
+			},
+			{
+				"name": "Stolen Mutagens",
+				"type": "custom",
+				"id": "KOKLAND",
+				"image_uris": {
+					"large": "https://www.mtgnexus.com/img/ccc/ren/8058/37928.jpg?t=2024-03-16-22:32:52"
+				},
+				"mana_cost": "{G}{U}{R}",
+				"cmc": 3,
+				"type_line": "Instant",
+				"oracle_text": "Choose one —\n• Green Mutagen: Put two +1/+1 counters onto target creature you control. It gains hexproof until your next turn. \n• Red Mutagen: Stolen Mutagens deals 2 damage to any target. Create a tapped treasure token. \n• Blue Mutagen: Target player gets a poison counter. Proliferate.",
+				"colors": [],
+				"color_identity": [
+					"G",
+					"U",
+					"R"
+				]
+			},
+			{
+				"name": "Witcher Tax",
+				"type": "custom",
+				"id": "3",
+				"image_uris": {
+					"large": "https://www.mtgnexus.com/img/ccc/ren/8058/43283.jpg?t=2023-02-08-22:09:39"
+				},
+				"mana_cost": "{U}{U}{R}",
+				"cmc": 3,
+				"type_line": "Instant",
+				"oracle_text": "Counter target spell, unless its controller pays 2 life.\nIf they do, you draw two cards.",
+				"colors": [
+					"U",
+					"R"
+				],
+				"color_identity": [
+					"U",
+					"R"
+				]
+			},
+			{
+				"name": "Witcher Amulet",
+				"type": "custom",
+				"id": "KOK1",
+				"image_uris": {
+					"large": "https://www.mtgnexus.com/img/ccc/ren/8058/91732.jpg?t=2023-06-04-20:01:09"
+				},
+				"mana_cost": "{4}",
+				"cmc": 4,
+				"type_line": "Artifact",
+				"oracle_text": "{T}: Scry 1.\nEach opponent can cast spells only any time they could cast a sorcery.",
+				"colors": [
+					"C"
+				],
+				"color_identity": [
+					"C"
+				]
+			},
+			{
+				"name": "Emhyr var Emreis",
+				"type": "custom",
+				"id": "KOK2",
+				"image_uris": {
+					"large": "https://www.mtgnexus.com/img/ccc/ren/8058/44222.jpg?t=2024-02-09-22:11:32"
+				},
+				"mana_cost": "{W}{U}{B}{R}{G}",
+				"cmc": 5,
+				"type_line": "Legendary Creature — Human Noble",
+				"oracle_text": "Ward — {5}\nYour opponents can only cast or activate abbilities during their turns.\nYour opponents play with their hands revealed.\nOnce per turn you may a cast a revealed spell of target player's hand. You may cast that spells as though they had flash.",
+				"power": "5",
+				"toughness": "5",
+				"colors": [
+					"W",
+					"U",
+					"B",
+					"R",
+					"G"
+				],
+				"color_identity": [
+					"W",
+					"U",
+					"B",
+					"R",
+					"G"
+				]
+			},
+			{
+				"name": "Fireball Ward",
+				"type": "custom",
+				"id": "KOK3",
+				"image_uris": {
+					"large": "https://www.mtgnexus.com/img/ccc/ren/8058/40711.jpg?t=2023-02-01-21:06:56"
+				},
+				"mana_cost": "{U}{R}",
+				"cmc": 2,
+				"type_line": "Instant",
+				"oracle_text": "This spell cannot be cast from your hand.\nCounter target spell. Fireball Ward deals damage to that spell's controller equal to it's mana value countered that way.\nForetell {R}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+				"colors": [
+					"U",
+					"R"
+				],
+				"color_identity": [
+					"U",
+					"R"
+				]
+			},
+			{
+				"name": "Harmony",
+				"type": "custom",
+				"id": "KOK4",
+				"image_uris": {
+					"large": "https://www.mtgnexus.com/img/ccc/ren/8058/40736.jpg?t=2023-02-01-22:01:23"
+				},
+				"mana_cost": "{1}{W}{G}",
+				"cmc": 3,
+				"type_line": "Enchantment",
+				"oracle_text": "Creatures you control get +1/+1.",
+				"colors": [
+					"W",
+					"G"
+				],
+				"color_identity": [
+					"W",
+					"G"
+				]
+			},
+			{
+				"name": "Keen-Blade Elf",
+				"type": "custom",
+				"id": "KOK5",
+				"image_uris": {
+					"large": "https://www.mtgnexus.com/img/ccc/ren/8058/47448.jpg?t=2023-03-05-05:37:37"
+				},
+				"mana_cost": "{1}{B}{G}",
+				"cmc": 3,
+				"type_line": "Creature — Elf",
+				"oracle_text": "Deathtouch, first strike.",
+				"power": "3",
+				"toughness": "2",
+				"colors": [
+					"B",
+					"G"
+				],
+				"color_identity": [
+					"B",
+					"G"
+				]
+			},
+			{
+				"name": "Keira Metz",
+				"type": "custom",
+				"id": "4",
+				"image_uris": {
+					"large": "https://www.mtgnexus.com/img/ccc/ren/8058/40868.jpg?t=2023-04-15-20:25:26"
+				},
+				"mana_cost": "{1}{B}{R}",
+				"cmc": 3,
+				"type_line": "Legendary Creature — Wizard",
+				"oracle_text": "Whenever you cast a noncreature spell, choose one —\n• Keira Metz get's +2/+0 until end of turn. \n• Keira Metz deals 1 damage to any target. \n• Scry 1.",
+				"power": "2",
+				"toughness": "3",
+				"colors": [
+					"B",
+					"R"
+				],
+				"color_identity": [
+					"B",
+					"R"
+				]
+			},
+			{
+				"name": "Prize-Winning Cow // Chort",
+				"type": "custom",
+				"id": "5",
+				"mana_cost": "{4}{BG}{BG}",
+				"cmc": 6,
+				"type_line": "Creature — Beast  // 	Creature — Beast Horror",
+				"colors": [
+					"B",
+					"G"
+				],
+				"color_identity": [
+					"B",
+					"G"
+				],
+				"card_faces": [{
+						"name": "Prize-Winning Cow",
+						"image_uris": {
+							"large": "https://www.mtgnexus.com/img/ccc/ren/8058/58246a.jpg?t=2023-03-18-22:41:33"
+						},
+						"mana_cost": "{4}{BG}{BG}",
+						"type_line": "Creature — Beast",
+						"oracle_text": "When Prize-Winning Cow would die, transform it.\n{T}: Add one mana of any colour.",
+						"power": "0",
+						"toughness": "3"
+					},
+					{
+						"name": "Chort",
+						"image_uris": {
+							"large": "https://www.mtgnexus.com/img/ccc/ren/8058/58246b.jpg?t=2023-03-18-22:41:33",
+							"mana_cost": "",
+							"type_line": "Creature — Beast Horror",
+							"oracle_text": "Haste, trample.",
+							"power": "7",
+							"toughness": "4"
+						}
+					]
+				},
+				{
+					"name": "Lambert, Fencing Master",
+					"type": "custom",
+					"id": "6",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/42477.jpg?t=2023-04-21-09:31:07"
+					},
+					"mana_cost": "{3}{W}{B}",
+					"cmc": 5,
+					"type_line": "Legendary Creature — Witcher",
+					"oracle_text": "Double Strike\nAttacking creatures you control have witcher — 2 (This creature gains +2/+2 if you control a witcher creature or planeswalker.)",
+					"power": "1",
+					"toughness": "3",
+					"colors": [
+						"W",
+						"B"
+					],
+					"color_identity": [
+						"W",
+						"B"
+					]
+				},
+				{
+					"name": "Desert Banshee",
+					"type": "custom",
+					"id": "7",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/65742.jpg?t=2023-04-05-12:32:45"
+					},
+					"mana_cost": "{1}{B}{B}",
+					"cmc": 3,
+					"type_line": "Creature — Specter ",
+					"oracle_text": "Whenever a creature dies, put a +1/+1 counter onto Desert Banshee.",
+					"power": "2",
+					"toughness": "2",
+					"colors": [
+						"B"
+					],
+					"color_identity": [
+						"B"
+					]
+				},
+				{
+					"name": "Deacon of the Eternal Eclipse",
+					"type": "custom",
+					"id": "8",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/39103.jpg?t=2024-02-09-21:36:36"
+					},
+					"mana_cost": "{1}{B}",
+					"cmc": 2,
+					"type_line": "Creature — Cleric",
+					"oracle_text": "Deathtouch \nWhenever a creature dies, its controller loses 1 life.",
+					"power": "2",
+					"toughness": "1",
+					"colors": [
+						"B",
+					],
+					"color_identity": [
+						"B",
+					]
+				},
+				{
+					"name": "Breeding Basement",
+					"type": "custom",
+					"id": "9",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/72208.jpg?t=2024-02-09-21:34:44"
+					},
+					"mana_cost": "{3}{B}",
+					"cmc": 4,
+					"type_line": "Enchantment — Curse",
+					"oracle_text": "Enchant player \nAt the beginning of echanted player's upkeep, that player choses one — \n• Discard a card. \n• You get a poison counter. \nIf the enchanted player has 5 or more poison counters, they may pay {2}. If they do, exile Breeding Basement.",
+					"colors": [
+						"B"
+					],
+					"color_identity": [
+						"B"
+					]
+				},
+				{
+					"name": "Set Sail",
+					"type": "custom",
+					"id": "10",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/47485.jpg?t=2023-02-19-22:25:37"
+					},
+					"mana_cost": "{1}{U}",
+					"cmc": 2,
+					"type_line": "Sorcery",
+					"oracle_text": "Draw a card. \nAt the beginning of your next upkeep look at target players hand and draw a card.",
+					"colors": [
+						"U"
+					],
+					"color_identity": [
+						"U"
+					]
+				},
+				{
+					"name": "The Mist of Eons",
+					"type": "custom",
+					"id": "11",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/92990.jpg?t=2023-06-06-20:37:37"
+					},
+					"mana_cost": "{2}{U}",
+					"cmc": 3,
+					"type_line": "Legendary Creature — Elemental Wall",
+					"oracle_text": "Defender, flying \nProtection from nonlegendaries. \nWhenever damage that would be dealt to you or to a permanent you control is prevented, target opponent mills that many cards.",
+					"colors": [
+						"U",
+					],
+					"color_identity": [
+						"U",
+					]
+				},
+				{
+					"name": "Magpie",
+					"type": "custom",
+					"id": "12",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/125374.jpg?t=2023-08-09-20:48:40"
+					},
+					"mana_cost": "{4}{U}",
+					"cmc": 5,
+					"type_line": "Creature — Bird",
+					"oracle_text": "Flying \nWhen Magpie enters the battlefield gain control of target noncreature artifact an opponent controls.",
+					"colors": [
+						"U"
+					],
+					"color_identity": [
+						"U"
+					]
+				},
+				{
+					"name": "Full Stop",
+					"type": "custom",
+					"id": "13",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/62760.jpg?t=2023-03-28-21:32:26"
+					},
+					"mana_cost": "{U}{U}{U}",
+					"cmc": 3,
+					"type_line": "Instant",
+					"oracle_text": "Counter target spell.\nDraw a card.",
+					"colors": [
+						"U"
+					],
+					"color_identity": [
+						"U"
+					]
+				},
+				{
+					"name": "Dragon's Dream",
+					"type": "custom",
+					"id": "14",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/37950.jpg?t=2023-08-03-17:21:07"
+					},
+					"mana_cost": "{2}{U}",
+					"cmc": 3,
+					"type_line": "Sorcery — Potion",
+					"oracle_text": "Draw a card. Then scry 2. Then you gain 1 life.",
+					"colors": [
+						"U"
+					],
+					"color_identity": [
+						"U"
+					]
+				},
+				{
+					"name": "Eternal Frost",
+					"type": "custom",
+					"id": "15",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/39108.jpg?t=2023-01-25-21:58:27"
+					},
+					"mana_cost": "{3}{U}{U}",
+					"cmc": 5,
+					"type_line": "Sorcery",
+					"oracle_text": "Tap all permanents and put three stun counters on each of it.",
+					"colors": [
+						"U",
+					],
+					"color_identity": [
+						"U",
+					]
+				},
+				{
+					"name": "Chapter of Wizards",
+					"type": "custom",
+					"id": "16",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/82977.jpg?t=2023-05-15-17:38:12"
+					},
+					"mana_cost": "{4}{U}",
+					"cmc": 5,
+					"type_line": "Legendary Enchantment",
+					"oracle_text": "Whenever you draw a card, put a +1/+1 counter onto target creature you control.",
+					"colors": [
+						"U",
+					],
+					"color_identity": [
+						"U",
+					]
+				},
+				{
+					"name": "Aard",
+					"type": "custom",
+					"id": "17",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/40373.jpg?t=2023-01-31-08:15:52"
+					},
+					"mana_cost": "{U}",
+					"cmc": 1,
+					"type_line": "Enchantment — Sign",
+					"oracle_text": "Vanishing — 2 \n{U}, {T}: Return target permanent to it's owners hand. \nCleave {2}{U}{U}",
+					"colors": [
+						"U"
+					],
+					"color_identity": [
+						"U"
+					]
+				},
+				{
+					"name": "Swallow",
+					"type": "custom",
+					"id": "17",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/37938.jpg?t=2023-01-22-10:29:26"
+					},
+					"mana_cost": "{W}",
+					"cmc": 1,
+					"type_line": "Instant — Potion",
+					"oracle_text": "Regenerate target creature. You gain 2 life.",
+					"colors": [
+						"W"
+					],
+					"color_identity": [
+						"W"
+					]
+				},
+				{
+					"name": "Quen",
+					"type": "custom",
+					"id": "18",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/40376.jpg?t=2023-04-21-21:54:37"
+					},
+					"mana_cost": "{W}",
+					"cmc": 1,
+					"type_line": "Enchantment — Sign",
+					"oracle_text": "Vanishing — 2 \n{W}, {T}: Prevent the next damage dealed by or dealt to target creature.",
+					"colors": [
+						"W"
+					],
+					"color_identity": [
+						"W"
+					]
+				},
+				{
+					"name": "Cintrian Knight",
+					"type": "custom",
+					"id": "19",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/44218.jpg?t=2023-02-11-16:39:50"
+					},
+					"mana_cost": "{1}{W}",
+					"cmc": 2,
+					"type_line": "Creature — Human Knight",
+					"oracle_text": "Lifelink",
+					"power": "2",
+					"toughness": "2",
+					"colors": [
+						"W"
+					],
+					"color_identity": [
+						"W"
+					]
+				},
+				{
+					"name": "Sand Storm",
+					"type": "custom",
+					"id": "20",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/43265.jpg?t=2023-02-08-22:01:52"
+					},
+					"mana_cost": "{B}{B}{B}",
+					"cmc": 3,
+					"type_line": "Sorcery",
+					"oracle_text": "All creatures gain -3/-3 until end of turn.",
+					"colors": [
+						"B"
+					],
+					"color_identity": [
+						"B"
+					]
+				},
+				{
+					"name": "Mourntart",
+					"type": "custom",
+					"id": "21",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/89939.jpg?t=2023-05-31-22:27:36"
+					},
+					"mana_cost": "{2}{B}",
+					"cmc": 3,
+					"type_line": "Creature — Zombie ",
+					"oracle_text": "{T}: Exile target player's graveyard. Put a +1/+1 counter onto Mourntart for each creature card exiled this way.",
+					"power": "1",
+					"toughness": "1",
+					"colors": [
+						"B"
+					],
+					"color_identity": [
+						"B"
+					]
+				},
+				{
+					"name": "Move",
+					"type": "custom",
+					"id": "22",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/58251.jpg?t=2023-03-18-22:46:24"
+					},
+					"mana_cost": "{1}{B}",
+					"cmc": 2,
+					"type_line": "Sorcery ",
+					"oracle_text": "You draw 2 cards and get a posion counter.",
+					"colors": [
+						"B"
+					],
+					"color_identity": [
+						"B"
+					]
+				},
+				{
+					"name": "Kingslayer",
+					"type": "custom",
+					"id": "23",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/93420.jpg?t=2023-06-07-21:32:09"
+					},
+					"mana_cost": "{2}{B}{B}",
+					"cmc": 4,
+					"type_line": "Creature — Witcher",
+					"oracle_text": "Deathtouch, double strike \nWhenever Kingslayer attacks, the defending opponent mills the top card of his or her library.",
+					"power": "1",
+					"toughness": "1",
+					"colors": [
+						"B"
+					],
+					"color_identity": [
+						"B"
+					]
+				},
+				{
+					"name": "Wild Hunt Warrior",
+					"type": "custom",
+					"id": "24",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/47324.jpg?t=2023-02-19-06:11:15"
+					},
+					"mana_cost": "{2}{B}",
+					"cmc": 3,
+					"type_line": "Creature — Wild Hunt",
+					"oracle_text": "Deathtouch\n A deck may contain any number of creatures called 'Wild Hunt Warrior'",
+					"power": "2",
+					"toughness": "2",
+					"colors": [
+						"B"
+					],
+					"color_identity": [
+						"B"
+					]
+				},
+				{
+					"name": "Yrden",
+					"type": "custom",
+					"id": "25",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/40378.jpg?t=2023-01-31-08:29:04"
+					},
+					"mana_cost": "{1}{B}",
+					"cmc": 2,
+					"type_line": "Enchantment — Sign",
+					"oracle_text": "Vanishing — 2 \nCreatures can't attack you or planeswalkers you contol unless their controller pays 2 life for each creature they control that's attacking you.",
+					"colors": [
+						"B"
+					],
+					"color_identity": [
+						"B"
+					]
+				},
+				{
+					"name": "Wild Hunt Hound",
+					"type": "custom",
+					"id": "26",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/59219.jpg?t=2023-03-20-22:06:39"
+					},
+					"mana_cost": "{1}{B}",
+					"cmc": 2,
+					"type_line": "Creature — Wild Hound",
+					"oracle_text": "Menace\nA deck may contain any number of creatures called 'Wild Hunt Hound'",
+					"power": "2",
+					"toughness": "2",
+					"colors": [
+						"B"
+					],
+					"color_identity": [
+						"B"
+					]
+				},
+				{
+					"name": "Succubus",
+					"type": "custom",
+					"id": "27",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/66994.jpg?t=2023-04-16-08:25:08"
+					},
+					"mana_cost": "{2}{B}{B}",
+					"cmc": 4,
+					"type_line": "Creature — Demon",
+					"oracle_text": "Spy (You may let come this creature onto the battlefield under target opponent's control) \nTrample \nAt the beginning of your end step you get a poison counter",
+					"power": "4",
+					"toughness": "3",
+					"colors": [
+						"B",
+					],
+					"color_identity": [
+						"B",
+					]
+				},
+				{
+					"name": "Coup de Grace",
+					"type": "custom",
+					"id": "28",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/76407.jpg?t=2023-05-01-19:30:45"
+					},
+					"mana_cost": "{W}{B}{G}",
+					"cmc": 3,
+					"type_line": "Instant",
+					"oracle_text": "Sacrifice a creature.\nPut X +1/+1 counters onto target creature you control and you gain X life, where X is equal to the power of the sacrificed creature.",
+					"colors": [
+						"W",
+						"B",
+						"G"
+					],
+					"color_identity": [
+						"W",
+						"B",
+						"G"
+					]
+				},
+				{
+					"name": "Cat Witcher Saboteur",
+					"type": "custom",
+					"id": "29",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/93416.jpg?t=2023-06-07-21:27:56"
+					},
+					"mana_cost": "{1}{W}{B}",
+					"cmc": 3,
+					"type_line": "Creature — Witcher",
+					"oracle_text": "Vigilance \nWitcher 1 (This creature gains +1/+1 until you control another witcher creature or witcher planeswalker) \nWhen Cat Witcher Saboteur enters the battlefield, choose one: \n• Destroy target entchantment \n• Destroy target artifact. \n• Put two -1/-1 counters onto target creature.",
+					"power": "3",
+					"toughness": "2",
+					"colors": [
+						"W",
+						"B"
+					],
+					"color_identity": [
+						"W",
+						"B"
+					]
+				},
+				{
+					"name": "Battle Formations",
+					"type": "custom",
+					"id": "30",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/45898.jpg?t=2023-02-14-23:22:26"
+					},
+					"mana_cost": "{R}{R}{W}{W}",
+					"cmc": 4,
+					"type_line": "Enchantment",
+					"oracle_text": "At the beginning of your upkeep create a 2/2 white and red human knight creature token with vigilance",
+					"colors": [
+						"W"
+						"R"
+					],
+					"color_identity": [
+						"W"
+						"R"
+					]
+				},
+				{
+					"name": "Spontaneous Transformation",
+					"type": "custom",
+					"id": "31",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/91144.jpg?t=2023-06-03-08:13:09"
+					},
+					"mana_cost": "{3}{G}",
+					"cmc": 4,
+					"type_line": "Instant",
+					"oracle_text": "Exile target permanent. It's owner may put a creature card with equal or less mana value plus 1 to the mana value of the exiled card this way from their hand onto the battlefield.",
+					"colors": [
+						"G"
+					],
+					"color_identity": [
+						"G"
+					]
+				},
+				{
+					"name": "Living armor",
+					"type": "custom",
+					"id": "32",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/47347.jpg?t=2023-02-19-08:13:05"
+					},
+					"mana_cost": "{3}{G}{G}",
+					"cmc": 5,
+					"type_line": "Enchantment — Aura",
+					"oracle_text": "Enchant creature \nEnchanted creature gets +2/+2 and trample and assigns combat damage equal to its toughness rather than its power.",
+					"colors": [
+						"G"
+
+					],
+					"color_identity": [
+						"G"
+
+					]
+				},
+				{
+					"name": "Howl of the Nightpack",
+					"type": "custom",
+					"id": "33",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/57284.jpg?t=2023-03-16-23:02:46"
+					},
+					"mana_cost": "{X}{G}",
+					"cmc": 2,
+					"type_line": "Sorcery",
+					"oracle_text": "Create X 2/2 green Wolf creature tokens for each Forest you control.",
+					"colors": [
+						"G"
+					],
+					"color_identity": [
+						"G"
+					]
+				},
+				{
+					"name": "Elven Deadeye",
+					"type": "custom",
+					"id": "34",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/44200.jpg?t=2023-02-11-16:05:32"
+					},
+					"mana_cost": "{3}{G}",
+					"cmc": 4,
+					"type_line": "Creature — Elf",
+					"oracle_text": "Deathtouch, flash, reach",
+					"colors": [
+						"G"
+					],
+					"color_identity": [
+						"G"
+					]
+				},
+				{
+					"name": "Dense Fog",
+					"type": "custom",
+					"id": "35",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/39802.jpg?t=2023-01-28-19:55:46"
+					},
+					"mana_cost": "{3}{G}",
+					"cmc": 4,
+					"type_line": "Enchantment",
+					"oracle_text": "Creatures with flying cannot attack or block.\nBlocking creatures gain -1/-1.",
+					"colors": [
+						"G"
+					],
+					"color_identity": [
+						"G"
+					]
+				},
+				{
+					"name": "Axii",
+					"type": "custom",
+					"id": "36",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/40377.jpg?t=2023-04-21-21:55:35"
+					},
+					"mana_cost": "{G}",
+					"cmc": 1,
+					"type_line": "Enchantment — Sign",
+					"oracle_text": "Vanishing — 2 \n{G}, {T}: Remove up to two counters from a permanent or player.",
+					"colors": [
+						"G",
+					],
+					"color_identity": [
+						"G",
+					]
+				},
+				{
+					"name": "Aglaïs",
+					"type": "custom",
+					"id": "RAIEMBLEM",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/45904.jpg?t=2023-02-14-23:35:16"
+					},
+					"mana_cost": "{1}{G}",
+					"cmc": 2,
+					"type_line": "Creature — Dryad",
+					"oracle_text": "When Aglaïs enters the battlefield, you gain 3 life.\n{T}: Add {G}.",
+					"colors": [
+						"G"
+
+					],
+					"color_identity": [
+						"G"
+
+					]
+				},
+				{
+					"name": "Thunder",
+					"type": "custom",
+					"id": "37",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/37941.jpg?t=2023-01-22-09:52:52"
+					},
+					"mana_cost": "{R}",
+					"cmc": 1,
+					"type_line": "instant — Potion ",
+					"oracle_text": "Target creature gains +2/+0 and menace until end of turn"
+					"colors": [
+						"R"
+					],
+					"color_identity": [
+						"R"
+					]
+				},
+				{
+					"name": "Price Of War",
+					"type": "custom",
+					"id": "NOE2",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/40867.jpg?t=2023-02-02-10:27:44"
+					},
+					"mana_cost": "{1}{R}{R}",
+					"cmc": 3,
+					"type_line": "Enchantment",
+					"oracle_text": "At beginning of each of your upkeeps, put an ember counter onto Price Of War. Then you lose life equal to the ember counters on Price of War. \nSacrifice Price Of War: Destroy up to X lands, where X is equal to the number of ember counters, that were on Price Of War.",
+					"colors": [
+						"R"
+					],
+					"color_identity": [
+						"R"
+					]
+				},
+				{
+					"name": "Novigradian Justice",
+					"type": "custom",
+					"id": "38",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/61497.jpg?t=2023-03-26-08:28:20"
+					},
+					"mana_cost": "{1}{U}{U}",
+					"cmc": 3,
+					"type_line": "Legendary Creature — Human Wizard",
+					"oracle_text": "Whenever you cast a foretold spell, scry 2. If this is not the first time this ability has resolved this turn, draw a card.",
+					"power": "2",
+					"toughness": "3",
+					"colors": [
+						"U"
+					],
+					"color_identity": [
+						"U"
+					]
+				},
+				{
+					"name": "Mona, Astrologist",
+					"type": "custom",
+					"id": "MON1",
+					"image_uris": {
+						"large": "https://filedn.eu/lPUcGy7L5V0Bkha5QyKGbLf/Cards/MTG/Mona%2C%20Astrologist%20(1).jpeg"
+					},
+					"mana_cost": "{1}{R}",
+					"cmc": 2,
+					"type_line": "Enchantment",
+					"oracle_text": "Whenever a creature enters the battlefield, Novigradian Justice deals 1 damage to that creature.",
+					"colors": [
+						"R"
+					],
+					"color_identity": [
+						"R"
+					]
+				},
+				{
+					"name": "Merigold's Hailstorm",
+					"type": "custom",
+					"id": "MON2",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/47349.jpg?t=2023-02-19-08:31:50"
+					},
+					"mana_cost": "{2}{R}",
+					"cmc": 3,
+					"type_line": "Sorcery",
+					"oracle_text": "Merigold's Hailstorm deals 2 damage to each creature on the battlefield and each opponent.",
+					"colors": [
+						"R"
+					],
+					"color_identity": [
+						"R"
+					]
+				},
+				{
+					"name": "Lightning Volt",
+					"type": "custom",
+					"id": "39",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/42937.jpg?t=2023-02-07-22:29:13"
+					},
+					"mana_cost": "{1}{R}",
+					"cmc": 2,
+					"type_line": "Instant",
+					"oracle_text": "Choose a number between 1 and 4\nLightning Volt deals that much damage to you and to any target."
+					"colors": [
+						"R",
+					],
+					"color_identity": [
+						"R",
+					]
+				},
+				{
+					"name": "Igni",
+					"type": "custom",
+					"id": "40",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/40375.jpg?t=2023-01-31-08:15:10"
+					},
+					"mana_cost": "{R}",
+					"cmc": 1,
+					"type_line": "Enchantment — Sign",
+					"oracle_text": "Vanishing — 2 \n{R}, {T}: Igni deals 3 damage to any target.",
+					"colors": [
+						"R"
+					],
+					"color_identity": [
+						"R"
+					]
+				},
+				{
+					"name": "Dragonification",
+					"type": "custom",
+					"id": "41",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/47339.jpg?t=2023-02-19-07:05:07"
+					},
+					"mana_cost": "{R}{R}{R}{R}",
+					"cmc": 3,
+					"type_line": "Enchantment — Aura",
+					"oracle_text": "Enchant creature.\nEnchanted creature has 'Whenever this creature attacks, it deals 4 damage to any target.'",
+					"colors": [
+						"R"
+					],
+					"color_identity": [
+						"R"
+					]
+				},
+				{
+					"name": "Carlo Varese",
+					"type": "custom",
+					"id": "42",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/61495.jpg?t=2023-03-25-23:44:32"
+					},
+					"mana_cost": "{2}{R}",
+					"cmc": 3,
+					"type_line": "Legendary Creature — Dwarf, Rogue",
+					"oracle_text": "When Carlo Varese enters the battlefield, it deals X damage to target creature or player, where X is equal to number of cards in your hand.",
+					"power": "3",
+					"toughness": "3",
+					"colors": [
+						"R"
+					],
+					"color_identity": [
+						"R"
+					]
+				},
+				{
+					"name": "Allgod's Brew",
+					"type": "custom",
+					"id": "43",
+					"image_uris": {
+						"large": "https://www.mtgnexus.com/img/ccc/ren/8058/42464.jpg?t=2023-02-06-22:08:02"
+					},
+					"mana_cost": "{1}{R}",
+					"cmc": 2,
+					"type_line": "Instant",
+					"oracle_text": "Until end of turn, creatures you control gain 'when this creature dies it deals 1 damage to any target' .\nDraw a card",
+					"colors": [
+						"R"
+					],
+					"color_identity": [
+						"R"
+					]
+				},
+				{
+					"name": "Saskia the Dragonslayer // Saesenthessis",
+					"type": "custom",
+					"id": "44",
+					"mana_cost": "{3}{R}{W}",
+					"cmc": 5,
+					"type_line": "Legendary Creature — Human Knight  // Legendary Creature — Dragon",
+					"colors": [
+						"R"
+						"W"
+					],
+					"color_identity": [
+						"R"
+						"W"
+					],
+					"card_faces": [{
+								"name": "Saskia the Dragonslayer",
+								"image_uris": {
+									"large": "https://www.mtgnexus.com/img/ccc/ren/8058/31629a.jpg?t=2023-02-14-22:53:22"
+								},
+								"mana_cost": "{3}{R}{W}",
+								"type_line": "Legendary Creature — Human Knight",
+								"oracle_text": "Double strike, haste \nWhen Saskia the dragon slayer is dealt damage and doesn't die, transform it.",
+								"power": "3",
+								"toughness": "2"
+							},
+							{
+								"name": "Saesenthessis",
+								"image_uris": {
+									"large": "https://www.mtgnexus.com/img/ccc/ren/8058/31629b.jpg?t=2023-02-14-22:53:22"
+									"mana_cost": "",
+									"type_line": "	Legendary Creature — Dragon",
+									"oracle_text": "Ward — {3} \nFlying, trample, haste \nWhen Saesenthessis is dealt damage, it deals that much damage divided to any target creatures\nCurse — {12}: Exile this creature"
+									"power": "8",
+									"toughness": "8"
+								]
+							},
+							{
+								"name": "Priscilla",
+								"type": "custom",
+								"id": "45",
+								"image_uris": {
+									"large": "https://www.mtgnexus.com/img/ccc/ren/8058/208394.jpg?t=2024-03-16-22:22:40"
+								},
+								"mana_cost": "{1}{G}{W}",
+								"cmc": 3,
+								"type_line": "Legendary Creature — Bard",
+								"oracle_text": "Entchantments you control are indestructible",
+								"colors": [
+									"G"
+									"W"
+								],
+								"color_identity": [
+									"G"
+									"W"
+								]
+							},
+							{
+								"name": "Keira Metz",
+								"type": "custom",
+								"id": "46",
+								"image_uris": {
+									"large": "https://www.mtgnexus.com/img/ccc/ren/8058/40868.jpg?t=2023-04-15-20:25:26"
+								},
+								"mana_cost": "{1}{U}{R}",
+								"cmc": 3,
+								"type_line": "Legendary Creature — Wizard",
+								"oracle_text": "Whenever you cast a noncreature spell, choose one —\n• Keira Metz get's +2/+0 until end of turn. \n• Keira Metz deals 1 damage to any target. \n• Scry 1.",
+								"colors": [
+									"U"
+									"R"
+								],
+								"color_identity": [
+									"U"
+									"R"
+								]
+							},
+							{
+								"name": "Oxenfurt",
+								"type": "custom",
+								"id": "47",
+								"image_uris": {
+									"large": "https://www.mtgnexus.com/img/ccc/ren/8058/44312.jpg?t=2023-02-11-19:36:00"
+								},
+								"mana_cost": "",
+								"cmc": 0,
+								"type_line": "Land",
+								"oracle_text": "Oxenfurt enters the battlefield tapped \n{T}: Add {G}, {R}, or {U}.",
+								"colors": [
+									"G"
+									"R"
+									"U"
+								],
+								"color_identity": [
+									"G"
+									"R"
+									"U"
+								]
+							},
+							{
+								"name": "Tir ná Lia",
+								"type": "custom",
+								"id": "48",
+								"image_uris": {
+									"large": "https://www.mtgnexus.com/img/ccc/ren/8058/39114.jpg?t=2023-01-25-22:10:21"
+								},
+								"mana_cost": "",
+								"cmc": 0,
+								"type_line": "Land — Island, Swamp",
+								"oracle_text": "{T} Add: {B} or {U}. Activate only as a sorcery.",
+								"colors": [
+									"B"
+									"U"
+
+								],
+								"color_identity": [
+									"B"
+									"U"
+
+								]
+							},
+							{
+								"name": "Skellige",
+								"type": "custom",
+								"id": "49",
+								"image_uris": {
+									"large": "https://www.mtgnexus.com/img/ccc/ren/8058/44314.jpg?t=2023-02-11-19:38:57"
+								},
+								"mana_cost": "",
+								"cmc": 0,
+								"type_line": "Land",
+								"oracle_text": "Skellige enters the battlefield tapped.\n{T}: Add {B}, {R} or {U}.",
+								"colors": [
+									"U",
+									"B"
+									"R"
+								],
+								"color_identity": [
+									"U",
+									"B"
+									"R"
+								]
+							},
+							{
+								"name": "Eredin Bréacc Glas",
+								"type": "custom",
+								"id": "50",
+								"image_uris": {
+									"large": "https://www.mtgnexus.com/img/ccc/ren/8058/45911.jpg?t=2024-02-09-21:48:36"
+								},
+								"mana_cost": "{4}{B}{B}{B}",
+								"cmc": 7,
+								"type_line": "Legendary Planeswalker — Wild Hunt",
+								"oracle_text": "Whenever a creature an opponent controls dies, put a loyality counter onto Eredin Bréacc Glas\nProtection from humans.\n+1: Search each opponents libraries for each up to one card and exile it.\n0: Create two 2/2 black wild hunt warrior creature tokens with deathtouch.\n-13: Destroy up to six target permanents.",
+								"loyalty": "7",
+								"colors": [
+									"B",
+								],
+								"color_identity": [
+									"B",
+								]
+							},
+							{
+								"name": "Triss Merigold, Stone Shower",
+								"type": "custom",
+								"id": "51",
+								"image_uris": {
+									"large": "https://www.mtgnexus.com/img/ccc/ren/8058/50217.jpg?t=2023-02-26-22:28:55"
+								},
+								"mana_cost": "{2}{R}",
+								"cmc": 3,
+								"type_line": "Legendary Planeswalker — Wizard",
+								"oracle_text": " Whenever you a cast a spell from exile, add {R} to your mana pool.\n+1: Exile the top two cards of the top of your library. You may cast them this turn.\n-X: Triss Merigold, Stone Shower deals X damage to any target.",
+								"loyalty": "3",
+								"colors": [
+									"R"
+								],
+								"color_identity": [
+									"R"
+								]
+							},
+							{
+								"name": "Yennefer of Vengerberg",
+								"type": "custom",
+								"id": "52",
+								"image_uris": {
+									"large": "https://www.mtgnexus.com/img/ccc/ren/8058/57314.jpg?t=2024-02-09-22:20:48"
+								},
+								"mana_cost": "{1}{W}{W}{B}",
+								"cmc": 4,
+								"type_line": "Legendary Planeswalker — Wizard",
+								"oracle_text": "Whenever a player gains life, put a loyality counter onto Yennefer of Vengerberg. \nWard — {2}\n0: You lose 2 life and target opponent gains 2 life. Draw a card.\n-4: Exile target permanent. Create a 2/2 white bird creature token with flying and lifelink.\n-8: Destroy all creatures.",
+								"loyalty": "3",
+								"colors": [
+									"W",
+									"B"
+								],
+								"color_identity": [
+									"W",
+									"B"
+								]
+							},
+							{
+								"name": "Jarri, Soul of Sehra",
+								"type": "custom",
+								"id": "53",
+								"image_uris": {
+									"large": "https://www.mtgnexus.com/img/ccc/ren/8058/40928.jpg?t=2024-06-09-17:54:16"
+								},
+								"mana_cost": "{4}{W}{U}",
+								"cmc": 6,
+								"type_line": "Legendary Planeswalker — Witcher",
+								"oracle_text": "No more than one creature can attack Ciri each turn. Ciri cannot be searched out of libraries. \nHexproof\n+1: Exile up to one target artifact, creature or planeswalker. Return that card to the battlefield under its owner’s control at the beginning of that player’s next end step.\n0: Ciri, The Lost Child deals 3 damage to any target.\n-9: Put all nonland permanents other than Ciri, The Lost Child back to it's owner's hands.",
+								"loyalty": "6",
+								"colors": [
+									"W",
+									"U"
+								],
+								"color_identity": [
+									"W",
+									"U"
+								]
+							},
+							{
+								"name": "Geralt Of Rivia",
+								"type": "custom",
+								"id": "54",
+								"image_uris": {
+									"large": "https://www.mtgnexus.com/img/ccc/ren/8058/40252.jpg?t=2023-01-31-07:45:29"
+								},
+								"mana_cost": "{W}{U}{B}{R}{G}",
+								"cmc": 5,
+								"type_line": "Legendary Planeswalker — Witcher",
+								"oracle_text": "+1: Until end of turn double the effect of potions and signs you cast (For example: If you would scry 2 and draw a card, you scry 4 and draw two cards instead)\n+1: Search your Library for an artifact equipment or enchantment card, reveal it, put in your hand, then shuffle your library.\n-3: Gerald Of Riva deals damage to any target euqal to it's loyality counters.\n-8: You may search your library or exile for a card. Put that card onto the battlefield without paying it's manacost, then shuffle.",
+								"loyalty": "6",
+								"colors": [
+									"W"
+									"U"
+									"B"
+									"R"
+									"G"
+								],
+								"color_identity": [
+									"W"
+									"U"
+									"B"
+									"R"
+									"G"
+								]
+							},
