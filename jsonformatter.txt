@@ -1,1 +1,22 @@
-JSON.parse: unexpected non-whitespace character after JSON data at line 22 column 6 of the JSON data
+{
+      "name": "Keen-Blade Elf",
+      "type": "custom",
+      "id": "KOK5",
+      "image_uris": {
+        "large": "https://www.mtgnexus.com/img/ccc/ren/8058/47448.jpg?t=2023-03-05-05:37:37"
+      },
+      "mana_cost": "{1}{B}{G}",
+      "cmc": 3,
+      "type_line": "Creature — Elf",
+      "oracle_text": "Deathtouch, first strike.",
+      "power": "3",
+      "toughness": "2",
+      "colors": [
+        "B",
+        "G"
+      ],
+      "color_identity": [
+        "B",
+        "G"
+      ]
+    },
