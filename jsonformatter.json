@@ -237,7 +237,7 @@
       "card_faces": [
         {
           "name": "Prize-Winning Cow",
-          "image_uris": {
+          "image_uris": { "https://www.mtgnexus.com/img/ccc/ren/8058/58246a.jpg?t=2023-03-18-22:41:33"
             "large": "https://www.mtgnexus.com/img/ccc/ren/8058/58246a.jpg?t=2023-03-18-22:41:33"
           },
           "mana_cost": "{4}{BG}{BG}",
