@@ -1028,46 +1028,6 @@
       ]
     },
     {
-      "name": "Saskia the Dragonslayer // Saesenthessis",
-      "type": "custom",
-      "id": "44",
-      "mana_cost": "{3}{R}{W}",
-      "cmc": 5,
-      "type_line": "Legendary Creature — Human Knight  // Legendary Creature — Dragon",
-      "colors": [
-        "R",
-        "W"
-      ],
-      "color_identity": [
-        "R",
-        "W"
-      ],
-      "card_faces": [
-        {
-          "name": "Saskia the Dragonslayer",
-          "image_uris": {
-            "large": "https://www.mtgnexus.com/img/ccc/ren/8058/31629a.jpg?t=2023-02-14-22:53:22"
-          },
-          "mana_cost": "{3}{R}{W}",
-          "type_line": "Legendary Creature — Human Knight",
-          "oracle_text": "Double strike, haste \nWhen Saskia the dragon slayer is dealt damage and doesn't die, transform it.",
-          "power": "3",
-          "toughness": "2"
-        },
-        {
-          "name": "Saesenthessis",
-          "image_uris": {
-            "large": "https://www.mtgnexus.com/img/ccc/ren/8058/31629b.jpg?t=2023-02-14-22:53:22"
-          },
-          "mana_cost": "",
-          "type_line": "Legendary Creature  Dragon",
-          "oracle_text": "Ward — {3} \nFlying, trample, haste \nWhen Saesenthessis is dealt damage, it deals that much damage divided to any target creatures\nCurse — {12}: Exile this creature",
-          "power": "8",
-          "toughness": "8"
-        }
-      ]
-    },
-    {
       "name": "Priscilla",
       "type": "custom",
       "id": "45",
