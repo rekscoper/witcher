@@ -460,24 +460,6 @@
       ]
     },
     {
-      "name": "Aard",
-      "type": "custom",
-      "id": "17",
-      "image_uris": {
-        "large": "https://www.mtgnexus.com/img/ccc/ren/8058/40373.jpg?t=2023-01-31-08:15:52"
-      },
-      "mana_cost": "{U}",
-      "cmc": 1,
-      "type_line": "Enchantment — Sign",
-      "oracle_text": "Vanishing — 2 \n{U}, {T}: Return target permanent to it's owners hand. \nCleave {2}{U}{U}",
-      "colors": [
-        "U"
-      ],
-      "color_identity": [
-        "U"
-      ]
-    },
-    {
       "name": "Swallow",
       "type": "custom",
       "id": "17",
